@@ -1,2 +1,2 @@
 # best-repo-ever
-read me
+read me second file to check for merge conflict
