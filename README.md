@@ -1,2 +1,2 @@
 # best-repo-ever
-read me
+read me to understand merge conflict
